@@ -20,7 +20,6 @@
             "tsConfig": "tsconfig.app.json",
             "aot": false,
             "assets": [
-              "src/favicon.ico",
               "src/assets"
             ],
             "styles": [
@@ -84,9 +83,9 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
-            "assets": [
+            "/assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src//assets"
             ],
             "styles": [
               "src/styles.css"
