@@ -341,7 +341,9 @@ img {
     background-position: center;
     position: relative;
 }
-
+.me-image {
+    background-image: url(../assets/img/about/about.jpg);
+}
 .slider-area:before {
     position: absolute;
     content: '';
