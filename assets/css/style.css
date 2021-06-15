@@ -342,7 +342,7 @@ img {
     position: relative;
 }
 .me-image {
-    background-image: url(../img/about/about.jpg);
+    background-image: url(../img/about/about.jpeg);
 }
 .slider-area:before {
     position: absolute;
